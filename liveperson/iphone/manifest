@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: liveperson
+author: Alejandro Gomez
+license: Specify your license
+copyright: Copyright (c) 2015 by 
+
+# these should not be edited
+name: liveperson
+moduleid: com.liveperson
+guid: 52218d1f-7942-4fab-83ae-82f97be72337
+platform: iphone
+minsdk: 3.5.1.GA
